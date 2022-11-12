@@ -1,0 +1,39 @@
+#ADICIONE ABAIXO TODOS OS PRODUTOS DISPONÍVEIS NO MERCADO:
+
+Sabão
+Sabonete
+Detergente
+Shampoo
+Pasta de dente
+Maçã
+Banana
+Pera
+Melão
+Manga
+Arroz
+Feijão
+Batata Frita
+Carne
+Alho
+Sal
+Açúcar
+Macarrão Instantâneo
+Chocolate
+Salgadinho
+Refrigerante
+Suco
+Cerveja
+Cachaça
+Leite
+Maionese
+Presunto
+Queijo
+Requeijão
+Margarina
+Patê
+Pasta de amendoim
+Pão de sanduíche
+Pão francês
+Água
+Água com gás
+Água saborizada
