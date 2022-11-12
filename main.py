@@ -37,6 +37,8 @@ mercado.configure(height=len(catalogo) if len(catalogo) < 40 else 40, width=30)
 
 #Adiciona produto ao pressionar duas vezes sobre ele;
 botao = mercado.bind('<Double-1>',pressiona)
+#Adiciona produto ao pressionar [ENTER] sobre ele;
+botao = mercado.bind('<Return>',pressiona)
 
 #Encerra o programa;
 sair = Button(text="Sair do mercado",command=sair)
